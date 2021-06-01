@@ -20,5 +20,5 @@ jobs:
           make test
     - name: Format code with Python black
       run: |
-          make foemat
+          make format
     
